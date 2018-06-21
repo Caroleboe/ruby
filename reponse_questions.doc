@@ -1,0 +1,9 @@
+2.2)  puts = rajoute une ligne après chaque argument et print ne le fait pas.
+
+2.3) # créé un commentaire dans le fichier rb. c’est utilisé pour un commentaire d’une ligne.
+
+2.4) parce qu’il manque une guillemet de fin.
+
+2.7) Pour le fichier a: la question du nom de l’utilisateur est posée et il y a possibilité de taper l’information en dessous.
+Pour le fichier b: c’est la même chose que le a mais il y a « > » avant le champ pour taper le nom
+Pour le fichier c: il y a juste la possibilité de rentrer le nom de l’utilisateur mais il n’y a aucune information pour le signaler.
